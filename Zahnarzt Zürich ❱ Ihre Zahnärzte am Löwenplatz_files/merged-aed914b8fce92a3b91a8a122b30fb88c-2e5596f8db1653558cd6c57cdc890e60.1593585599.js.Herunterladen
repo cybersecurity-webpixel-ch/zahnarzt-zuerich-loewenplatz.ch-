@@ -1,0 +1,3 @@
+
+
+window.cookieconsent_options = {position: 'top', static: true, container: 'body', path: '/', expiryDays: 365, link: 'https://www.zahnarzt-zuerich-loewenplatz.ch/datenschutz/', theme: false,  message: 'Diese Website benutzt Cookies. Wenn Sie die Website weiter nutzen, stimmen Sie der Verwendung von Cookies zu.', learnMore: 'Datenschutzerklärung', dismiss: 'Akzeptieren'};
